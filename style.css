@@ -6,7 +6,15 @@ h1{
 }
 h2{
     color: #b22222; text-align: center; 
+    border: dotted 5px yellowgreen;
+    padding: 10px;
+    margin: 20px
 }
 p{
     color: #8108D4; text-align: center; font-size: 30px;
+}
+#imagem1 {
+    border: solid #8108D4;
+    width: 150px; 
+    margin-left: 45%;
 }
