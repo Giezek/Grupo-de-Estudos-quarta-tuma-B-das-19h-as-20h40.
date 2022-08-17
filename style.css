@@ -18,3 +18,17 @@ p{
     width: 150px; 
     margin-left: 45%;
 }
+h3{
+    color: #dc143c; text-align: center; font-size: 50px;
+    background-color:#8108D4 ;
+}
+.itens{
+    background-color: cadetblue;
+}
+
+li::marker{
+    content: ❤️😍;    
+}
+ul{
+    display: inline-table;
+}
